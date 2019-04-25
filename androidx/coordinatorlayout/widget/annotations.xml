@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.coordinatorlayout.widget.CoordinatorLayout'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
